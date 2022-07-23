@@ -10634,7 +10634,13 @@ h4, h5, h6 {
   .feature-text {
     margin-left: -100px;
   }
+
+  .query-btn {
+    margin-top: 5rem;
+  }
 }
+
+
 
 .bg-page-header {
   background: linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)), url(../img/carousel-2.jpg), no-repeat center center;
