@@ -10626,7 +10626,7 @@ h4, h5, h6 {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(55, 55, 63, 0.7);
+  /* background: rgba(55, 55, 63, 0.7); */
   z-index: 1;
 }
 
